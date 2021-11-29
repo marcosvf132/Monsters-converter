@@ -3,7 +3,7 @@
  
  Convert your OpenTibia monsters file from clientID/serverID/name to clientID/serverID.
 
- This item editor was created to work along with Canary and OpenTibiaBR repository but can work on another servers.
+ This monster converter was created to work along with Canary and OpenTibiaBR repository but can work on another servers.
  
   > On different server bases and versions may demand adaptation to work as intended.
 
