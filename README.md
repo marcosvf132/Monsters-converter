@@ -1,7 +1,7 @@
 # Monster-Converter
  DevM Monster Converter is a tool that can make server development easier.
  
- Convert your OpenTibia monsters file from clientID/serverID/name to clientID/serverID.
+ Convert your OpenTibia monsters loot from clientID/serverID/name to clientID/serverID.
 
  This monster converter was created to work along with Canary and OpenTibiaBR repository but can work on another servers.
  
